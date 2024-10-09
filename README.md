@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[PFP author](https://nataliebernard.com)
+[![Profile picture credits](https://img.shields.io/badge/PFP_credits-blue)](https://nataliebernard.com)
